@@ -1,5 +1,24 @@
 # General Assignment Directions
 
+
+Students within Computer Science and Computer Information Technology programs are better served if they learn and utilize source control 
+systems early in their academic program. Learning various markdown languages, which are used to document their software projects, is also advantages.
+
+While using a Canvas might be a easier for you to submit assignments, using canvas provides you with little long-term benefit.  
+
+As such, we will be using GitHub Classrooms for all of our paper-like assignments, which includes quizzes and exams in COMP122. Additional, a semi-automatic grading process is also used as part of this process. This should result in a faster turn-around in grading.
+
+
+To submit your assignments and for the Professor to grade them efficiently, there are a number of steps that you must follow. This assignment is being provided to you to ensure you understand these steps and to allow you to address any issues that may prevent you from submitting your assignments.
+
+
+## Instructions:
+  1. Obtain a github acccount
+  2. Accept assignment invitation:
+  3. Link your github account with you campus email address
+  4. 
+
+
 ## To Get Started:
   1. Clone this repository to your computer.  
   2. Review the "assignment.md" file.
