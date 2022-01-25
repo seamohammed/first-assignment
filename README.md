@@ -10,7 +10,7 @@ As such, we will be using GitHub Classrooms for all of our paper-like assignment
 To submit your assignments and for the Professor to grade them efficiently, there are a number of steps that you must follow. This assignment is being provided to you to ensure you understand these steps and to allow you to address any issues that may prevent you from submitting your assignments.
 
 ## First-Time Instructions:
-  1. Obtain a github acccount (https:github.com)
+  1. Obtain a github acccount (https://github.com)
   2. Setup your github account to use [SSH Authenication](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
   3. Click on the following assignment link to join the COMP122-S22 classroom: https://classroom.github.com/a/pveCiD9J
   4. Link your github account by locating and selecting your @my.csun.edu account.
