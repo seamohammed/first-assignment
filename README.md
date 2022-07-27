@@ -12,21 +12,22 @@ To submit your assignments and for the Professor to grade them efficiently, ther
 ## First-Time Instructions:
   1. Obtain a github acccount (https://github.com)
   2. Setup your github account to use [SSH Authenication](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
-  3. Click on the following assignment link to join the COMP122-S22 classroom: https://classroom.github.com/a/pveCiD9J
+  3. Click on the following assignment link to join the COMP122-F22 classroom: https://classroom.github.com/a/t6q2XqLiGet
   4. Link your github account by locating and selecting your @my.csun.edu account.
   5. Accept the assignment.
   6. Wait a bit and then refresh the page.
-  7. Click on the URL that is associated with the assignment repository
-     - E.g., https://github.com/COMP122/01-first-assignment-smf-steve
+  7. Get Started on this assignment
 
 ## To Get Started on this assignment
-  1. Clone this repository to your computer.  
-  2. Review the "assignment.md" file.
-  3. Make a copy of this file, naming it "submission.md": ``cp assignment.md submission.md``
-  4. Edit this file to include your name in the appropriate location.
-  5. Add this file to your local repository: ``git add submission.md``
-  6. Commit this file to your local repository: ``git commit -m 'creating file'``
-  7. Push the current contents of your local repository to remote repository: ``git push``
+  1. Click on the URL that is associated with the assignment repository
+     - E.g., https://github.com/COMP122/01-first-assignment-smf-steve
+  2. Clone this repository to your computer.  
+  3. Review the "assignment.md" file.
+  4. Make a copy of the "assignment.md" file, naming it "submission.md": ``cp assignment.md submission.md``
+  5. Edit this file to include your name in the appropriate location.
+  6. Add this file to your local repository: ``git add submission.md``
+  7. Commit this file to your local repository: ``git commit -m 'creating file'``
+  8. Push the current contents of your local repository to remote repository: ``git push``
 
 ## Work on the Assignment
   1. Incrementally edit and submit your "submission.md" file
