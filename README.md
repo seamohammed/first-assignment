@@ -12,14 +12,15 @@ To submit your assignments and for the Professor to grade them efficiently, ther
 ## First-Time Instructions:
   1. Obtain a github acccount (https://github.com)
   2. Setup your github account to use [SSH Authenication](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
-  3. Click on the following assignment link to join the COMP122-F22 classroom: https://classroom.github.com/a/t6q2XqLiGet
+  3. Click on the following assignment link to join the COMP122-F22 classroom: https://classroom.github.com/a/t6q2XqLi
   4. Link your github account by locating and selecting your @my.csun.edu account.
   5. Accept the assignment.
   6. Wait a bit and then refresh the page.
-  7. Get Started on this assignment
+  7. Get Started on this assignment (see next section).
 
 ## To Get Started on this assignment
-  1. Click on the URL that is associated with the assignment repository
+  1. Click on the associated assignment link: i.e., https://classroom.github.com/a/t6q2XqLi
+  1. Click on the URL is associated with the assignment repository.
      - E.g., https://github.com/COMP122/01-first-assignment-smf-steve
   2. Clone this repository to your computer.  
   3. Review the "assignment.md" file.
